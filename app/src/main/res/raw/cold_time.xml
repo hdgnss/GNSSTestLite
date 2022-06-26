@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+    <round>50</round>
+    <cep></cep>
+    <delay>30000</delay>
+    <request>1</request>
+    <timeout>180</timeout>
+    <delete>65535</delete>
+    <inject_time>True</inject_time>
+</test>

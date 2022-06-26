@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GNSSTest</string>
+
+    <string name="dummy_button">Start</string>
+
+    <string name="placeholder_value">---</string>
+    <string name="gps_not_supported">GPS Not Supported!</string>
+
+    <!-- status table text -->
+    <string name="text_loc_ttff_txt">T</string>
+    <string name="text_loc_acc_txt">A</string>
+    <string name="text_loc_lon_txt">Lon:</string>
+    <string name="text_loc_lat_txt">Lat:</string>
+    <string name="text_loc_view_txt">V</string>
+    <string name="text_loc_use_txt">U</string>
+    <string name="text_loc_cn0_txt">C</string>
+    <string name="text_loc_index_txt">I</string>
+
+    <!-- Strings related to Permission -->
+    <string name="msg_request_permissions">Storage &amp; Location permissions are required.</string>
+    <string name="msg_request_permissions_settings">Storage &amp; Location permissions are required. Do you want to go to app settings?</string>
+
+    <string name="msg_exit_app">Press Back again to Exit.</string>
+    <string name="msg_snack_bar_start_test">GPS Test Starting</string>
+    <string name="msg_snack_bar_stop_test">GPS Test Stopping</string>
+    <string name="msg_snack_bar_action">Action</string>
+    <string name="msg_dialog_yes">Yes</string>
+    <string name="msg_dialog_cancel">Cancel</string>
+</resources>
